@@ -8,3 +8,4 @@
 - Lista de Tarefas (HTML, CSS, JS)
 - Automação com Python
 - Projeto de TCC (HTML)
+- Sistema de sorteio em Python
